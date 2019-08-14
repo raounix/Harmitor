@@ -1,4 +1,7 @@
 # Harmitor
+
+[![GitHub license](https://img.shields.io/github/license/captainpick/Harmitor?style=flat-square)](https://github.com/captainpick/Harmitor/blob/master/LICENSE) ![Repo Size](https://img.shields.io/github/repo-size/captainpick/harmitor?style=flat-square)
+
 <p align="center">
   <img src="/screenshot/screenshot.png" width="512px"/>
 </p>
